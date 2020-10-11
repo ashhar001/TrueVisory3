@@ -1,0 +1,19 @@
+{
+  "name": "truevisory3",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ashhar001/TrueVisory3.git"
+  },
+  "author": "ashhar001",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
